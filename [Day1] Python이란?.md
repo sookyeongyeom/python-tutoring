@@ -32,7 +32,7 @@ Mac https://blockdmask.tistory.com/341
 Windows10 https://goddaehee.tistory.com/286   
 ### 대화형 Interpreter (cmd/terminal)
 Python은 한 줄 한 줄 순차적으로 실행된다.   
-cmd/terminal에서 Python의 대화형 인터프리터를 사용할 수 있다. 
+cmd/terminal에서 Python의 대화형 인터프리터를 실행할 수 있다. 
 1. 사칙연산
 2. 변수에 숫자 대입하고 계산하기
 3. 변수에 문자 대입하고 출력하기
