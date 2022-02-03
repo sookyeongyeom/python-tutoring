@@ -90,3 +90,10 @@ print(7//4)  # 1 (몫을 반환)
 Python은 변수 초기화 시 타입을 자동으로 정해준다.   
 ### Python에서도 정적 타이핑이 가능하다.   
 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=passion053&logNo=221070020739
+
+---
+
+# 과제
+
+1. 사용자의 이름을 입력받아 환영 인사해주기
+2. 사용자의 생년을 입력받아 나이를 계산해주기
