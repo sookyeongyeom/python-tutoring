@@ -327,6 +327,7 @@ def meockgeum(num):
         return
     else:
         print("먹금 실패!")
+    print("이 부분이 출력될까요?")
 
 meockgeum(1)
 meockgeum(2)
