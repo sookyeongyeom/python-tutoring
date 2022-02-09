@@ -86,8 +86,8 @@ Hi! I'm Sookyeong. Nice to meet you!
 
 ```python
 name = "Ponyo"
-greet[0]  # "p"
-greet[-1]  # "o"
+name[0]  # "P"
+name[-1]  # "o"
 ```
 
 
@@ -142,7 +142,6 @@ len(long)  # 9
 fruit = "strawberry"
 f"I like {fruit}"  # "I like strawberry"
 "I like " + fruit  # "I like strawberry"
-
 ```
 
 <br>
@@ -214,7 +213,7 @@ len(todo)  # 3
 prev = []
 prev.append("추가")
 prev  # ["추가"]
----
+```
 
 특정 인덱스에 추가
 
